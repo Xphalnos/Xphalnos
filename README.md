@@ -2,12 +2,17 @@
 
 # About me :
 
-Hi! I'm **Xphalnos** and I'm a French guy passionate about emulation.
+- Hi! I'm **Xphalnos** and I'm a French guy passionate about emulation.
+- Currently I dedicate part of my free time to [**shadPS4**](https://github.com/shadps4-emu/shadPS4), which I think will become the best emulator given how the development is progressing.
+- I am also the creator of the [**shadPS4 logo**](https://github.com/shadps4-emu/shadPS4/blob/main/.github/shadps4.png).
+- I am continuously learning **C++** to try to be better.
 
-Currently I dedicate part of my free time to [**shadPS4**](https://github.com/shadps4-emu/shadPS4), which I think will become the best emulator given how the development is progressing.
+<h1 align="center">
+  <br>
+  <b>:fire: My Stats :</b>
+  <br>
+</h1>
 
-I am also the creator of the [**shadPS4 logo**](https://github.com/shadps4-emu/shadPS4/blob/main/.github/shadps4.png).
-
-I am continuously learning **C++** to try to be better.
-
-[![GitHub Activity](http://github-readme-streak-stats.herokuapp.com?user=Xphalnos&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://shadps4.net/"><img src="http://github-readme-streak-stats.herokuapp.com?user=Xphalnos&theme=dark&background=000000"></a>
+</p>
