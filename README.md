@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Xphalnos&style=flat&color=blue"/>
+
 # About me :
 
 Hi! I'm **Xphalnos** and I'm a French guy passionate about emulation.
