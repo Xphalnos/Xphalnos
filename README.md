@@ -8,11 +8,9 @@
 - I am continuously learning **C++** to try to be better.
 
 <h1 align="center">
-  <br>
   <b>:fire: My Stats :</b>
-  <br>
 </h1>
 
 <p align="center">
-  <a href="https://shadps4.net/"><img src="http://github-readme-streak-stats.herokuapp.com?user=Xphalnos&theme=dark&background=000000"></a>
+  <a href="https://github.com/Xphalnos/Xphalnos/blob/main/Profile%20Picture.png"><img src="http://github-readme-streak-stats.herokuapp.com?user=Xphalnos&theme=dark&background=000000"></a>
 </p>
