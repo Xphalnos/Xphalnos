@@ -13,13 +13,13 @@
   <b>Interesting Emulators :</b>
 </h1>
 
-- [**shadPS4**](https://github.com/shadps4-emu/shadPS4) - (PlayStation 4)
-- [**Xenia Canary**](https://github.com/xenia-canary/xenia-canary) - (Xbox 360)
-- **yuzu** - (R.I.P) - (Nintendo Switch)
-- [**Cemu**](https://github.com/cemu-project/Cemu) - (Wii U)
-- [**Dolphin**](https://github.com/dolphin-emu/dolphin) - (Wii/Gamecube)
-- [**RPCS3**](https://github.com/RPCS3/rpcs3) - (PlayStation 3)
-- [**PCSX2**](https://github.com/PCSX2/pcsx2) - (PlayStation 2)
+- **[shadPS4](https://github.com/shadps4-emu/shadPS4) - (PlayStation 4)**
+- **[Xenia Canary](https://github.com/xenia-canary/xenia-canary) - (Xbox 360)**
+- **yuzu - (R.I.P :dove:) - (Switch)**
+- **[Cemu](https://github.com/cemu-project/Cemu) - (Wii U)**
+- **[Dolphin](https://github.com/dolphin-emu/dolphin) - (Wii/Gamecube)**
+- **[RPCS3](https://github.com/RPCS3/rpcs3) - (PlayStation 3)**
+- **[PCSX2](https://github.com/PCSX2/pcsx2) - (PlayStation 2)**
 
 <h1 align="center">
   <b>:fire: My Stats :</b>
