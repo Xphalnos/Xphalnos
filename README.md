@@ -4,10 +4,11 @@
   <b>About Me :</b>
 </h1>
 
-- Hi! I'm **Xphalnos** and I'm a **:fr:** guy passionate about emulation.
-- Currently I dedicate part of my free time to [**shadPS4**](https://github.com/shadps4-emu/shadPS4) and [**Xenia Canary**](https://github.com/xenia-canary/xenia-canary).
-- I am also the creator of the [**shadPS4 logo**](https://github.com/shadps4-emu/shadPS4/blob/main/.github/shadps4.png).
+- Hi! I'm **Xphalnos** and I'm a French guy passionate about emulation.
+- Currently I dedicate part of my free time to [**shadPS4**](https://github.com/shadps4-emu/shadPS4) and I'm the maintainer of [**shadPS4 Game Compatibility**](https://github.com/shadps4-emu/shadps4-game-compatibility).
+- I am the creator of the shadPS4 logo.
 - I am continuously learning **C++** to try to be better.
+- I am very interested in **GPU development** with **Vulkan**.
 
 <h1 align="center">
   <b>Interesting Emulators :</b>
