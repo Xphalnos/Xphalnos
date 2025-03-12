@@ -5,7 +5,7 @@
 
 <!-- BOTW Image Description -->
 <p align="center">
-  <i>Beautiful screenshots taken from <b>Zelda Breath of the Wild</b> on Cemu.</i>
+  <i>Beautiful screenshot taken from <b>Zelda Breath of the Wild</b> on Cemu emulator.</i>
 </p>
 
 <!-- BOTW Image -->
